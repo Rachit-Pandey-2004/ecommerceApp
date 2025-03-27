@@ -5,3 +5,4 @@ This will be a template for future ecommerce style websites and apps \
 - authentication
    - /api/auth/register
    - /api/auth/login
+   - /api/auth/logout
